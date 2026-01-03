@@ -1,6 +1,6 @@
 import React from "react";
-import Pagination from "./components/Pagination";
-import logo from "./assets/image/logo.webp"
+import logoo from "./assets/image/logoo.webp";
+import ListCard from "./components/ListCard";
 
 const App = () => {
   return (
@@ -8,20 +8,31 @@ const App = () => {
       <div
         className="absolute inset-0 z-0"
         style={{
-          background:
-            "radial-gradient(circle at 20% 20%, rgba(255,255,255,0.08) 0%, transparent 40%), radial-gradient(circle at 80% 30%, rgba(255,255,255,0.05) 0%, transparent 40%), linear-gradient(120deg, #0f0e17 0%, #1a1b26 100%)",
-        }}
+      background: "#020617",
+      backgroundImage: `
+        linear-gradient(to right, rgba(71,85,105,0.3) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(71,85,105,0.3) 1px, transparent 1px),
+        radial-gradient(circle at 50% 50%, rgba(139,92,246,0.15) 0%, transparent 70%)
+      `,
+      backgroundSize: "32px 32px, 32px 32px, 100% 100%",
+    }}
       />
 
-      <main className="flex-grow z-10">
-        <img src={logo} alt="logo de la pagina " />
+      <main className="z-10 flex-grow  ">
+        <section>
+          <div className="flex justify-center">
+            <img src={logoo} alt="logo de la web"  className="w-20 sm:w-24 md:w-28 h-auto mb-3"/>
+            <h1 className="text-white text-4xl md:text-6xl font-bold my-4">Status<span className="text-indigo-600">MEME</span></h1>
+          </div>
+        </section>
+        <section>
+          <ListCard/>
+        </section>
       </main>
-          
-      <div className="z-10 flex justify-center pb-6">
-        <Pagination />
-      </div>
     </div>
   );
 };
 
 export default App;
+
+
