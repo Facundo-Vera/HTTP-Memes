@@ -16,32 +16,32 @@ const httpcodigoMemes = [
     id: 3,
     codigo: 102,
     description: "Procesando… el backend está pensando.",
-    image: "",
+    image: "https://imgs.search.brave.com/Z2nc_tOnWvtbGta_Tb3bZp4CdI0Jick8_59dZSED-_g/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vNE5U/bjhySGk3Z1hhY3BU/LWxqM1p4OWNWOGVt/WFMxaFpUdWhZT0sz/RGZEZy5qcGc",
   },
 
   {
     id: 4,
     codigo: 200,
     description: "Todo salió perfecto ",
-    image: "p",
+    image: "https://imgs.search.brave.com/Q69YiOJJKT2tytrL7gEnBE3RFXnNcY_UcjNl5RhOtZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/dDRCSGlqY05EWThB/QUFBTS9wZXJmZWN0/LmdpZg.gif",
   },
   {
     id: 5,
     codigo: 201,
     description: "Se creó algo nuevo y funciona.",
-    image: "",
+    image: "https://httpmemes.netlify.app/201.jpg",
   },
   {
     id: 6,
     codigo: 202,
     description: "Aceptado… pero todavía no terminó.",
-    image: "",
+    image: "https://imgs.search.brave.com/rAKgao5ZP5V5iCouk_SsttxtBIijWJb1xOaKdoXAlWM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vNWlF/SXF0VTBHeC1OS2Nz/T3lSdFJwLVU3SVRf/QTVBWUNzYmlvWUdW/cF9fMC5qcGc",
   },
   {
     id: 7,
     codigo: 204,
     description: "No hay contenido, pero todo bien.",
-    image: "",
+    image: "https://imgs.search.brave.com/jE0B0fhTP_Pr7o30QybBiJiii6V44K9Ne7z_qUNN4ic/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU5L2I0/LzYxLzU5YjQ2MTY5/MDc4YmIyNTljOTBm/NjVlZjI0ZGU4Zjk5/LmpwZw",
   },
   {
     id: 8,
@@ -54,7 +54,7 @@ const httpcodigoMemes = [
     id: 9,
     codigo: 300,
     description: "Elegí un camino… cualquiera.",
-    image: "",
+    image: "https://httpmemes.netlify.app/421.jpg",
   },
   {
     id: 10,
@@ -103,7 +103,7 @@ const httpcodigoMemes = [
       id: 17,
       codigo: 400,
       description: "El pedido está mal, algo hiciste.",
-      image: ""
+      image: "https://imgs.search.brave.com/lq67GBIknK-TzG0LoBP0hJM5RgsQLygUXDffNAplpo8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZWRyb2lkLmNv/bS9pbWFnZXMvaWNv/bnMvbWVtZXRpY29u/cy9zb3lqYWsyLnBu/Zw",
     },
     {
       id: 18,
@@ -121,7 +121,7 @@ const httpcodigoMemes = [
       id: 20,
       codigo: 403,
       description: "No tenés permiso ",
-      image: ""
+      image: "https://imgs.search.brave.com/ri5z07De6-fAivX29BGSFTcr5ud1uvsbNI3EXHVBKf4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vY3JG/RTFHVDd6NkY2SEN1/d09oN3NhNkZtZ3Ra/RzlYbFluU1BScWdy/eHVWNC5qcGc"
     },
     {
       id: 21,
@@ -151,7 +151,7 @@ const httpcodigoMemes = [
       id: 25,
       codigo: 409,
       description: "Conflicto detectado.",
-      image: ""
+      image: "https://imgs.search.brave.com/ycyl4Bj14JbhtUjxTAEDQGeiwEgrdqASYM-zQISByPI/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vWTkx/QjVfZW9yUWg0RzM5/WFVuOXFxdF9GcC1N/bG4xeUpQbVNnRllp/MjduVS5qcGc"
     },
     {
       id: 26,
@@ -266,7 +266,7 @@ const httpcodigoMemes = [
       id: 44,
       codigo: 500,
       description: "Explotó el servidor ",
-      image: ""
+      image: "https://imgs.search.brave.com/q-mfj3BS82EcqJb_7vt62SwfvLDVuPqDjMDA3FRAZ8c/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vX2Yx/WTlKakgtSW5zaUVK/WjlhSHVTOWU4NFh1/ekMzU1llQ1BjRVZD/cGpTOC5qcGc"
     },
     {
       id: 45,
