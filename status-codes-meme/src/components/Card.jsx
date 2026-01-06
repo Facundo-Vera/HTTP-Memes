@@ -22,7 +22,7 @@ const Card = ({ codigo, id, description, image }) => {
         <img
           src={image}
           alt="imagen meme"
-          className="w-full  h-32 md:h-52 object-cover"
+          className="w-full  h-32 md:h-52  object-center"
         />
       </div>
 

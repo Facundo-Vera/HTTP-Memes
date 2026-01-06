@@ -47,26 +47,26 @@ const httpcodigoMemes = [
     id: 8,
     codigo: 206,
     description: "Te mandé solo una parte.",
-    image: "",
+    image: "https://imgs.search.brave.com/BIjqFCwD75L9rsRZcsX1cTxH25Sz7MilHuOaxm70g5s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uYXBv/bGVvbmNhdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MTEvVHJlbmRpbmct/bWVtZXMtY2hpbGwt/Z3V5LW1lbWUuanBn",
   },
 
   {
     id: 9,
     codigo: 300,
     description: "Elegí un camino… cualquiera.",
-    image: "https://httpmemes.netlify.app/421.jpg",
+    image: "https://i.imgflip.com/99hu07.png",
   },
   {
     id: 10,
     codigo: 301,
     description: "Me mudé, no vuelvo más.",
-    image: "",
+    image: "https://imgs.search.brave.com/78aK2Tk4lxzjRf3mTSiw7CDTia_sdgWOnpCrFYY6o2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c2l1MW9rZ2Qyb2cx/MS5qcGc_YXV0bz13/ZWJwJnM9NjdjYTg4/ZDI5MmY3MjZmNjM4/NDQ1N2I2ODQ0Nzkz/OTFiMTc3NWNkMg",
   },
     {
       id: 11,
       codigo: 302,
       description: "No es acá, pero casi.",
-      image: ""
+      image: "https://imgs.search.brave.com/rZVeOxQTOviQ0S84w4mH5F1TGUEcVvJmwobaQMCV1CI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzlkLzMw/LzcyLzlkMzA3MmM2/NzU4ZDA1YjQxYjhj/ZTgyN2RkM2M1ZjJh/LmpwZw"
     },
     {
       id: 12,
@@ -115,7 +115,7 @@ const httpcodigoMemes = [
       id: 19,
       codigo: 402,
       description: "Pagá y hablamos.",
-      image: ""
+      image: "https://imgs.search.brave.com/Ztbypi-rcd2oh_6jS8i281gBrKIIQL7LYSRT9Y2MN6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nY2Ru/LmVtb2wuY2wvaHVt/b3IvZmlsZXMvMjAx/Ny8xMC8yMDE3LTEw/LTEyLTIucG5n"
     },
     {
       id: 20,
@@ -193,7 +193,7 @@ const httpcodigoMemes = [
       id: 32,
       codigo: 416,
       description: "Ese rango no existe.",
-      image: "https://httpmemes.netlify.app/416.jpg"
+      image: "https://imgs.search.brave.com/ASGlfF0iaa-NRoPk2ajFwnPsTXl72yd0rcKRzafB5RE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzRmL2Fk/LzdkLzRmYWQ3ZDYy/YzI5M2IyNDMwZDI2/YWYwMzQwNzgzNWQx/LmpwZw"
     },
     {
       id: 33,
@@ -302,13 +302,13 @@ const httpcodigoMemes = [
       id: 50,
       codigo: 507,
       description: "Sin espacio.",
-      image: ""
+      image: "https://imgs.search.brave.com/IZzLVWF9WieKSh5wrU9fYty2HR2hV-MuUi_7rjW7xKg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM3Lm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVENTY3/LzYyMGFmOTY5ODkz/YzUuanBlZw"
     },
     {
       id: 51,
       codigo: 508,
       description: "Loop infinito ",
-      image: ""
+      image: "https://imgs.search.brave.com/KNXwXXghxwt_6jyUVdtLFpfv-1ZMy1JuHxc7TF8I5Yo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/MWtrZTJ0LmpwZw"
     },
     {
       id: 52,
