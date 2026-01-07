@@ -23,6 +23,7 @@ const Card = ({ codigo, id, description, image }) => {
           src={image}
           alt="imagen meme"
           className="w-full  h-32 md:h-52  object-center"
+           loading="lazy"
         />
       </div>
 

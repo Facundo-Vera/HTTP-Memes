@@ -3,119 +3,112 @@ const httpcodigoMemes = [
     id: 1,
     codigo: 100,
     description: "El servidor dice: seguí, todavía no pasó nada.",
-    image:
-      "https://imgs.search.brave.com/u5oqmSHIT8pkWjLp-uYUdLwlmOwrL4-0K0ZtDEnVp7w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy4yMG1pbnV0/b3MuZXMvZmlsZXMv/aW1hZ2VfNjQwXzM2/MC91cGxvYWRzL2lt/YWdlbmVzLzIwMTgv/MTAvMTYvODAzNTA2/LmpwZw",
+    image:"/memes/100.webp",
   },
   {
     id: 2,
     codigo: 101,
     description: "Cambiando de protocolo, ahora todo es distinto.",
-    image: "https://imgs.search.brave.com/oW_q48cHGEh3ZKTi8OkngdqQ4aTIiI4Au_jCd_6HviM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS4xODk3/NTMzMjc3LjQ3ODAv/cmFmLDM2MHgzNjAs/MDc1LHQsZmFmYWZh/OmNhNDQzZjQ3ODYu/anBn",
+    image:"/memes/101.webp"
   },
   {
     id: 3,
     codigo: 102,
     description: "Procesando… el backend está pensando.",
-    image: "https://imgs.search.brave.com/Z2nc_tOnWvtbGta_Tb3bZp4CdI0Jick8_59dZSED-_g/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vNE5U/bjhySGk3Z1hhY3BU/LWxqM1p4OWNWOGVt/WFMxaFpUdWhZT0sz/RGZEZy5qcGc",
+    image:"/memes/102.webp",
   },
 
   {
     id: 4,
     codigo: 200,
     description: "Todo salió perfecto ",
-    image: "https://imgs.search.brave.com/Q69YiOJJKT2tytrL7gEnBE3RFXnNcY_UcjNl5RhOtZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/dDRCSGlqY05EWThB/QUFBTS9wZXJmZWN0/LmdpZg.gif",
+    image: "/memes/200.webp",
   },
   {
     id: 5,
     codigo: 201,
     description: "Se creó algo nuevo y funciona.",
-    image: "https://httpmemes.netlify.app/201.jpg",
+    image: "/memes/201.webp",
   },
   {
     id: 6,
     codigo: 202,
     description: "Aceptado… pero todavía no terminó.",
-    image: "https://imgs.search.brave.com/rAKgao5ZP5V5iCouk_SsttxtBIijWJb1xOaKdoXAlWM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vNWlF/SXF0VTBHeC1OS2Nz/T3lSdFJwLVU3SVRf/QTVBWUNzYmlvWUdW/cF9fMC5qcGc",
+    image: "/memes/202.webp",
   },
   {
     id: 7,
     codigo: 204,
     description: "No hay contenido, pero todo bien.",
-    image: "https://imgs.search.brave.com/jE0B0fhTP_Pr7o30QybBiJiii6V44K9Ne7z_qUNN4ic/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU5L2I0/LzYxLzU5YjQ2MTY5/MDc4YmIyNTljOTBm/NjVlZjI0ZGU4Zjk5/LmpwZw",
+    image: "/memes/204.webp",
   },
   {
     id: 8,
     codigo: 206,
     description: "Te mandé solo una parte.",
-    image: "https://imgs.search.brave.com/BIjqFCwD75L9rsRZcsX1cTxH25Sz7MilHuOaxm70g5s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9uYXBv/bGVvbmNhdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MTEvVHJlbmRpbmct/bWVtZXMtY2hpbGwt/Z3V5LW1lbWUuanBn",
+    image: "/memes/206.webp",
   },
 
   {
     id: 9,
     codigo: 300,
     description: "Elegí un camino… cualquiera.",
-    image: "https://i.imgflip.com/99hu07.png",
+    image: "/memes/300.webp",
   },
   {
     id: 10,
     codigo: 301,
     description: "Me mudé, no vuelvo más.",
-    image: "https://imgs.search.brave.com/78aK2Tk4lxzjRf3mTSiw7CDTia_sdgWOnpCrFYY6o2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c2l1MW9rZ2Qyb2cx/MS5qcGc_YXV0bz13/ZWJwJnM9NjdjYTg4/ZDI5MmY3MjZmNjM4/NDQ1N2I2ODQ0Nzkz/OTFiMTc3NWNkMg",
+    image: "/memes/301.webp",
   },
     {
       id: 11,
       codigo: 302,
-      description: "No es acá, pero casi.",
-      image: "https://imgs.search.brave.com/rZVeOxQTOviQ0S84w4mH5F1TGUEcVvJmwobaQMCV1CI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzlkLzMw/LzcyLzlkMzA3MmM2/NzU4ZDA1YjQxYjhj/ZTgyN2RkM2M1ZjJh/LmpwZw"
+      description: "Está, pero no acá, es temporal.",
+      image: "/memes/302.webp",
     },
     {
       id: 12,
       codigo: 303,
       description: "Mirá en otro lado.",
-      image: ""
+      image: "/memes/303.webp",
     },
     {
       id: 13,
       codigo: 304,
       description: "No cambió nada desde la última vez.",
-      image: ""
-    },
-    {
-      id: 14,
-      codigo: 305,
-      description: "Usá un proxy… o no.",
-      image: ""
+      image: "/memes/304.webp",
     },
     {
       id: 15,
       codigo: 307,
       description: "Redirección temporal, tranqui.",
-      image: ""
+      image: "/memes/307.webp",
     },
     {
       id: 16,
       codigo: 308,
       description: "Redirección permanente, en serio.",
-      image: ""
+      image: "/memes/308.webp",
     },
 
     {
       id: 17,
       codigo: 400,
       description: "El pedido está mal, algo hiciste.",
-      image: "https://imgs.search.brave.com/lq67GBIknK-TzG0LoBP0hJM5RgsQLygUXDffNAplpo8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZWRyb2lkLmNv/bS9pbWFnZXMvaWNv/bnMvbWVtZXRpY29u/cy9zb3lqYWsyLnBu/Zw",
+      image: "/memes/400.webp",
     },
     {
       id: 18,
       codigo: 401,
       description: "¿Quién sos? Logueate primero.",
-      image: ""
+      image: "/memes/401.webp",
     },
     {
       id: 19,
       codigo: 402,
       description: "Pagá y hablamos.",
-      image: "https://imgs.search.brave.com/Ztbypi-rcd2oh_6jS8i281gBrKIIQL7LYSRT9Y2MN6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nY2Ru/LmVtb2wuY2wvaHVt/b3IvZmlsZXMvMjAx/Ny8xMC8yMDE3LTEw/LTEyLTIucG5n"
+      image: "/memes/402.webp",
     },
     {
       id: 20,
@@ -133,19 +126,19 @@ const httpcodigoMemes = [
       id: 22,
       codigo: 405,
       description: "Ese método no va.",
-      image: ""
+      image: "https://imgs.search.brave.com/sXm7eu9gQuxXWPh_JEgzu0EiUYrZJRTOcOPoTCXyHrQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/d2hlcmUtdGhlLWZ1/Y2stZGlkLXRoZS1h/cHBsZS1tZW1lLWNv/bWUtZnJvbS12MC1u/bGZoejhtajB5MmUx/LmpwZWc_d2lkdGg9/NjQwJmNyb3A9c21h/cnQmYXV0bz13ZWJw/JnM9Yzc5MTkyNWFm/MTRhMDIzNTRkNDll/Yjc5MGU1NGEyOTJh/ZmIzODg1Yg"
     },
     {
       id: 23,
       codigo: 406,
       description: "No es aceptable.",
-      image: ""
+      image: "https://imgs.search.brave.com/4FKHwN28KvpKXdFOo-2uPzJBUD7YkeqDCL1cM6NWzUw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9i/LmRpYXJpb2RlbHlh/cXVpLm14L2ltYWdl/cy8yMDI1LzAyLzI3/L3BlcmRvbmVubWUt/dG9kb3Mtbm8tYWNl/cHRvLWxhLXZlcmRh/ZGVyYS1oaXN0b3Jp/YS1kZXRyYXMtZGUt/bGEtcGFyb2RpYS1k/NzdiYmVkYy1mb2N1/cy0wLTAtMTQ3OS04/Mjgud2VicA"
     },
     {
       id: 24,
       codigo: 408,
       description: "Tardaste demasiado.",
-      image: ""
+      image: "https://imgs.search.brave.com/kqot3CRJz03T_BOb7Sd1F-Qnlt9l5iif0M8KgKY261U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM3Lm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVENzI3/LzY2Y2VkYjQ3M2Q3/YTkuanBlZw"
     },
     {
       id: 25,
@@ -157,37 +150,37 @@ const httpcodigoMemes = [
       id: 26,
       codigo: 410,
       description: "Se fue y no vuelve.",
-      image: ""
+      image: "https://imgs.search.brave.com/DaY5hzVR4CoUX5p8HwqR7a6stiv96tesnPqX8snm4IY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c2llbXByZS1xdWUt/bWUtcGFzYS1lcy1s/by1taXNtby1xdWUt/ZW4tZWwtbWVtZS1h/LXVzdGVkZXMtdjAt/MDAyOTh0bDg1dnFk/MS5qcGVnP2F1dG89/d2VicCZzPWNkNzJk/M2I5NjkwZGNkOTQ0/YzczYTExOGY4ODNj/NTNjMGIxMjQ4MTM"
     },
     {
       id: 27,
       codigo: 411,
       description: "Falta el largo del contenido.",
-      image: ""
+      image: "https://i.imgflip.com/4/936fbe.jpg"
     },
     {
       id: 28,
       codigo: 412,
       description: "La condición falló.",
-      image: ""
+      image: "https://i.imgflip.com/6yzufi.jpg"
     },
     {
       id: 29,
       codigo: 413,
       description: "Demasiado pesado.",
-      image: ""
+      image: "https://imgs.search.brave.com/DQCUUYdsI418QGYakp8T1PZSXfWyFgi-lPZ_iYgUZ5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vRGpFRGs3UV9F/cWNBQUFBZC95ZS1k/ZWphLWRlLXNlci10/YW4tcGVzYW8uZ2lm.gif"
     },
     {
       id: 30,
       codigo: 414,
       description: "URL larguísima.",
-      image: ""
+      image: "https://imgs.search.brave.com/8Wxk2RgZciA3Hr420qR8tyLEGzxRHj2_OW4w7xg9wcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZS1hcnNlbmFs/LmNvbS9tZW1lcy8w/ZmYzZTRhNTllMGUz/OGE0ZjMwYjE3MmVj/YjM4MTE2NS5qcGc"
     },
     {
       id: 31,
       codigo: 415,
       description: "Formato no soportado.",
-      image: ""
+      image: "https://imgs.search.brave.com/ENbV5JhFqkFzRCSK9kJ3cIZM9eVF4WgNnam9iwbg2oQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzExLzhj/L2FiLzExOGNhYmM4/OGNkOTJjMDc0ZmIz/ZmI0ZGYwYjg0MzM0/LmpwZw"
     },
     {
       id: 32,
@@ -199,19 +192,19 @@ const httpcodigoMemes = [
       id: 33,
       codigo: 417,
       description: "La expectativa falló.",
-      image: ""
+      image: "https://imgs.search.brave.com/3fZj1vT3RhOI2CH96JpI3zgYCF-fjM4uOKg76Lod3sA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/N3NnNTB0LmpwZw"
     },
     {
       id: 34,
       codigo: 418,
       description: "Soy una tetera ",
-      image: ""
+      image: "https://i.imgflip.com/4/5w3mvi.jpg"
     },
     {
       id: 35,
       codigo: 421,
       description: "Pedido mal dirigido.",
-      image: ""
+      image: "https://imgs.search.brave.com/mHl-gNqMOBy7Q5r-JApwvIxgTC0KVywILHGVcaTZK-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vQkdacVJmT19Y/UE1BQUFBZC9wcm9i/bGVtYS5naWY.gif"
     },
     {
       id: 36,
@@ -223,43 +216,43 @@ const httpcodigoMemes = [
       id: 37,
       codigo: 423,
       description: "Está bloqueado 🔒",
-      image: ""
+      image: "https://imgs.search.brave.com/6A_BO-wf4sFAwGkO1ci_WjV5w4loboTsQm9faT3Oi44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZWNyZWF0b3Iu/b3JnL3N0YXRpYy9p/bWFnZXMvbWVtZXMv/NDg5MzI1Mi5qcGc"
     },
     {
       id: 38,
       codigo: 424,
       description: "Dependencia fallida.",
-      image: ""
+      image: "https://i.imgflip.com/4/5fx7tf.jpg"
     },
     {
       id: 39,
       codigo: 425,
       description: "Demasiado pronto.",
-      image: ""
+      image: "https://i.imgflip.com/17jilx.jpg"
     },
     {
       id: 40,
       codigo: 426,
       description: "Actualizá primero.",
-      image: ""
+      image: "https://imgs.search.brave.com/PX0KNqBo4APer68SjQGX_2P8DAgKA2kzC_cw6xdXrQk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMzLm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVEMTI2/LzVhYWQ5OWMzNTY3/NTcuanBlZw"
     },
     {
       id: 41,
       codigo: 429,
       description: "Pará un poco ",
-      image: "/memes/429.webp"
+      image: "https://i.imgflip.com/4/a3yail.jpg"
     },
     {
       id: 42,
       codigo: 431,
       description: "Headers enormes.",
-      image: ""
+      image: "https://i.imgflip.com/4/8y2tls.jpg"
     },
     {
       id: 43,
       codigo: 451,
       description: "Bloqueado por ley ",
-      image: ""
+      image: "https://i.imgflip.com/4/5rjw75.jpg"
     },
 
     {
@@ -272,31 +265,31 @@ const httpcodigoMemes = [
       id: 45,
       codigo: 501,
       description: "Todavía no está hecho.",
-      image: ""
+      image: "https://imgs.search.brave.com/QkIZO18urh_tOqoq1hIPOO3fQzenhzKcx5iQrHtagug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/Njk5MjZhLmpwZw"
     },
     {
       id: 46,
       codigo: 502,
       description: "El gateway falló.",
-      image: ""
+      image: "https://i.imgflip.com/4/k2uze.jpg"
     },
     {
       id: 47,
       codigo: 503,
       description: "No disponible ahora.",
-      image: ""
+      image: "https://www.rosario3.com/__export/1585949161911/sites/rosario3/img/2020/04/03/mmeme.jpg_1756841869.jpg"
     },
     {
       id: 48,
       codigo: 504,
       description: "Timeout total.",
-      image: ""
+      image: "https://i.imgflip.com/4/a2ssuc.jpg"
     },
     {
       id: 49,
       codigo: 506,
       description: "Negociación rara.",
-      image: ""
+      image: "https://i.imgflip.com/4/2yn2xy.jpg"
     },
     {
       id: 50,
@@ -314,13 +307,13 @@ const httpcodigoMemes = [
       id: 52,
       codigo: 510,
       description: "Falta extender.",
-      image: ""
+      image: "https://i.imgflip.com/4/9ukbtk.jpg"
     },
     {
       id: 53,
       codigo: 511,
       description: "Autenticación de red requerida.",
-      image: ""
+      image: "https://i.imgflip.com/4/hd3e8.jpg"
     }
 ];
 
