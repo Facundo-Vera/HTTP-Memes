@@ -114,55 +114,55 @@ const httpcodigoMemes = [
       id: 20,
       codigo: 403,
       description: "No tenés permiso ",
-      image: "https://imgs.search.brave.com/ri5z07De6-fAivX29BGSFTcr5ud1uvsbNI3EXHVBKf4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vY3JG/RTFHVDd6NkY2SEN1/d09oN3NhNkZtZ3Ra/RzlYbFluU1BScWdy/eHVWNC5qcGc"
+      image: "/memes/403.webp",
     },
     {
       id: 21,
       codigo: 404,
       description: "Esto no existe.",
-      image: "https://imgs.search.brave.com/MbSxjb-A4vKJ3hcrOfxcWgFqoJA4Q-ffMcRZdSNJuN4/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vd1dB/YTRnWmk2bUYxYXNp/TnQzSFRWYnZybm1O/WGstQlN5OXM2NEhZ/TDVZby5qcGc"
+      image: "/memes/404.webp",
     },
     {
       id: 22,
       codigo: 405,
       description: "Ese método no va.",
-      image: "https://imgs.search.brave.com/sXm7eu9gQuxXWPh_JEgzu0EiUYrZJRTOcOPoTCXyHrQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/d2hlcmUtdGhlLWZ1/Y2stZGlkLXRoZS1h/cHBsZS1tZW1lLWNv/bWUtZnJvbS12MC1u/bGZoejhtajB5MmUx/LmpwZWc_d2lkdGg9/NjQwJmNyb3A9c21h/cnQmYXV0bz13ZWJw/JnM9Yzc5MTkyNWFm/MTRhMDIzNTRkNDll/Yjc5MGU1NGEyOTJh/ZmIzODg1Yg"
+      image: "/memes/405.webp",
     },
     {
       id: 23,
       codigo: 406,
       description: "No es aceptable.",
-      image: "https://imgs.search.brave.com/4FKHwN28KvpKXdFOo-2uPzJBUD7YkeqDCL1cM6NWzUw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ibG9i/LmRpYXJpb2RlbHlh/cXVpLm14L2ltYWdl/cy8yMDI1LzAyLzI3/L3BlcmRvbmVubWUt/dG9kb3Mtbm8tYWNl/cHRvLWxhLXZlcmRh/ZGVyYS1oaXN0b3Jp/YS1kZXRyYXMtZGUt/bGEtcGFyb2RpYS1k/NzdiYmVkYy1mb2N1/cy0wLTAtMTQ3OS04/Mjgud2VicA"
+      image: "/memes/406.webp",
     },
     {
       id: 24,
       codigo: 408,
       description: "Tardaste demasiado.",
-      image: "https://imgs.search.brave.com/kqot3CRJz03T_BOb7Sd1F-Qnlt9l5iif0M8KgKY261U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM3Lm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVENzI3/LzY2Y2VkYjQ3M2Q3/YTkuanBlZw"
+      image: "/memes/408.webp",
     },
     {
       id: 25,
       codigo: 409,
       description: "Conflicto detectado.",
-      image: "https://imgs.search.brave.com/ycyl4Bj14JbhtUjxTAEDQGeiwEgrdqASYM-zQISByPI/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vWTkx/QjVfZW9yUWg0RzM5/WFVuOXFxdF9GcC1N/bG4xeUpQbVNnRllp/MjduVS5qcGc"
+      image: "/memes/409.webp",
     },
     {
       id: 26,
       codigo: 410,
       description: "Se fue y no vuelve.",
-      image: "https://imgs.search.brave.com/DaY5hzVR4CoUX5p8HwqR7a6stiv96tesnPqX8snm4IY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c2llbXByZS1xdWUt/bWUtcGFzYS1lcy1s/by1taXNtby1xdWUt/ZW4tZWwtbWVtZS1h/LXVzdGVkZXMtdjAt/MDAyOTh0bDg1dnFk/MS5qcGVnP2F1dG89/d2VicCZzPWNkNzJk/M2I5NjkwZGNkOTQ0/YzczYTExOGY4ODNj/NTNjMGIxMjQ4MTM"
+      image:"/memes/410.webp" ,
     },
     {
       id: 27,
       codigo: 411,
       description: "Falta el largo del contenido.",
-      image: "https://i.imgflip.com/4/936fbe.jpg"
+      image: "/memes/411.webp" ,
     },
     {
       id: 28,
       codigo: 412,
       description: "La condición falló.",
-      image: "https://i.imgflip.com/6yzufi.jpg"
+      image: "/memes/412.webp" ,
     },
     {
       id: 29,
@@ -174,146 +174,146 @@ const httpcodigoMemes = [
       id: 30,
       codigo: 414,
       description: "URL larguísima.",
-      image: "https://imgs.search.brave.com/8Wxk2RgZciA3Hr420qR8tyLEGzxRHj2_OW4w7xg9wcU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZS1hcnNlbmFs/LmNvbS9tZW1lcy8w/ZmYzZTRhNTllMGUz/OGE0ZjMwYjE3MmVj/YjM4MTE2NS5qcGc"
+      image: "/memes/414.webp" ,
     },
     {
       id: 31,
       codigo: 415,
       description: "Formato no soportado.",
-      image: "https://imgs.search.brave.com/ENbV5JhFqkFzRCSK9kJ3cIZM9eVF4WgNnam9iwbg2oQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzExLzhj/L2FiLzExOGNhYmM4/OGNkOTJjMDc0ZmIz/ZmI0ZGYwYjg0MzM0/LmpwZw"
+      image: "/memes/415.webp" ,
     },
     {
       id: 32,
       codigo: 416,
       description: "Ese rango no existe.",
-      image: "https://imgs.search.brave.com/ASGlfF0iaa-NRoPk2ajFwnPsTXl72yd0rcKRzafB5RE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzRmL2Fk/LzdkLzRmYWQ3ZDYy/YzI5M2IyNDMwZDI2/YWYwMzQwNzgzNWQx/LmpwZw"
+      image: "/memes/416.webp" ,
     },
     {
       id: 33,
       codigo: 417,
       description: "La expectativa falló.",
-      image: "https://imgs.search.brave.com/3fZj1vT3RhOI2CH96JpI3zgYCF-fjM4uOKg76Lod3sA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/N3NnNTB0LmpwZw"
+      image: "/memes/417.webp" ,
     },
     {
       id: 34,
       codigo: 418,
       description: "Soy una tetera ",
-      image: "https://i.imgflip.com/4/5w3mvi.jpg"
+      image: "/memes/418.webp" ,
     },
     {
       id: 35,
       codigo: 421,
       description: "Pedido mal dirigido.",
-      image: "https://imgs.search.brave.com/mHl-gNqMOBy7Q5r-JApwvIxgTC0KVywILHGVcaTZK-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vQkdacVJmT19Y/UE1BQUFBZC9wcm9i/bGVtYS5naWY.gif"
+      image: "/memes/421.webp" ,
     },
     {
       id: 36,
       codigo: 422,
       description: "No se puede procesar.",
-      image: "https://imgs.search.brave.com/yKshoAK5IkR2ZjwlFikIf1JJInGVcDyN6ZIDPS0HruY/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vT0Zu/TlBnbEVFdDJ5Qm5D/QndXYlpWbUlTYVRn/REdqaUlHb3c5amVZ/WGhKUS5qcGc"
+      image:"/memes/422.webp" ,
     },
     {
       id: 37,
       codigo: 423,
       description: "Está bloqueado 🔒",
-      image: "https://imgs.search.brave.com/6A_BO-wf4sFAwGkO1ci_WjV5w4loboTsQm9faT3Oi44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVtZWNyZWF0b3Iu/b3JnL3N0YXRpYy9p/bWFnZXMvbWVtZXMv/NDg5MzI1Mi5qcGc"
+      image: "/memes/423.webp" ,
     },
     {
       id: 38,
       codigo: 424,
       description: "Dependencia fallida.",
-      image: "https://i.imgflip.com/4/5fx7tf.jpg"
+      image: "/memes/424.webp" ,
     },
     {
       id: 39,
       codigo: 425,
       description: "Demasiado pronto.",
-      image: "https://i.imgflip.com/17jilx.jpg"
+      image: "/memes/425.webp" ,
     },
     {
       id: 40,
       codigo: 426,
       description: "Actualizá primero.",
-      image: "https://imgs.search.brave.com/PX0KNqBo4APer68SjQGX_2P8DAgKA2kzC_cw6xdXrQk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMzLm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVEMTI2/LzVhYWQ5OWMzNTY3/NTcuanBlZw"
+      image: "/memes/426.webp" ,
     },
     {
       id: 41,
       codigo: 429,
       description: "Pará un poco ",
-      image: "https://i.imgflip.com/4/a3yail.jpg"
+      image: "/memes/429.webp" ,
     },
     {
       id: 42,
       codigo: 431,
       description: "Headers enormes.",
-      image: "https://i.imgflip.com/4/8y2tls.jpg"
+      image:"/memes/431.webp" ,
     },
     {
       id: 43,
       codigo: 451,
       description: "Bloqueado por ley ",
-      image: "https://i.imgflip.com/4/5rjw75.jpg"
+      image:"/memes/451.webp" ,
     },
 
     {
       id: 44,
       codigo: 500,
       description: "Explotó el servidor ",
-      image: "https://imgs.search.brave.com/q-mfj3BS82EcqJb_7vt62SwfvLDVuPqDjMDA3FRAZ8c/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9hLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vX2Yx/WTlKakgtSW5zaUVK/WjlhSHVTOWU4NFh1/ekMzU1llQ1BjRVZD/cGpTOC5qcGc"
+      image: "/memes/500.webp" ,
     },
     {
       id: 45,
       codigo: 501,
       description: "Todavía no está hecho.",
-      image: "https://imgs.search.brave.com/QkIZO18urh_tOqoq1hIPOO3fQzenhzKcx5iQrHtagug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/Njk5MjZhLmpwZw"
+      image: "/memes/501.webp" ,
     },
     {
       id: 46,
       codigo: 502,
       description: "El gateway falló.",
-      image: "https://i.imgflip.com/4/k2uze.jpg"
+      image: "/memes/502.webp" ,
     },
     {
       id: 47,
       codigo: 503,
       description: "No disponible ahora.",
-      image: "https://www.rosario3.com/__export/1585949161911/sites/rosario3/img/2020/04/03/mmeme.jpg_1756841869.jpg"
+      image: "/memes/503.webp" ,
     },
     {
       id: 48,
       codigo: 504,
       description: "Timeout total.",
-      image: "https://i.imgflip.com/4/a2ssuc.jpg"
+      image: "/memes/504.webp" ,
     },
     {
       id: 49,
       codigo: 506,
       description: "Negociación rara.",
-      image: "https://i.imgflip.com/4/2yn2xy.jpg"
+      image: "/memes/506.webp" ,
     },
     {
       id: 50,
       codigo: 507,
       description: "Sin espacio.",
-      image: "https://imgs.search.brave.com/IZzLVWF9WieKSh5wrU9fYty2HR2hV-MuUi_7rjW7xKg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM3Lm1lbWVkcm9p/ZC5jb20vaW1hZ2Vz/L1VQTE9BREVENTY3/LzYyMGFmOTY5ODkz/YzUuanBlZw"
+      image: "/memes/507.webp" ,
     },
     {
       id: 51,
       codigo: 508,
       description: "Loop infinito ",
-      image: "https://imgs.search.brave.com/KNXwXXghxwt_6jyUVdtLFpfv-1ZMy1JuHxc7TF8I5Yo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/MWtrZTJ0LmpwZw"
+      image:"/memes/508.webp" ,
     },
     {
       id: 52,
       codigo: 510,
       description: "Falta extender.",
-      image: "https://i.imgflip.com/4/9ukbtk.jpg"
+      image:"/memes/510.webp" ,
     },
     {
       id: 53,
       codigo: 511,
       description: "Autenticación de red requerida.",
-      image: "https://i.imgflip.com/4/hd3e8.jpg"
+      image: "/memes/511.webp" ,
     }
 ];
 
