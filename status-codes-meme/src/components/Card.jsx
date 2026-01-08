@@ -22,7 +22,7 @@ const Card = memo(({ image, codigo, description }) => {
           alt={description}
           loading="lazy"
           decoding="async"
-          className="w-full h-52 object-center"
+          className="w-full h-40 md:h-52 object-center"
         />
       </div>
 
