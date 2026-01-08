@@ -168,7 +168,7 @@ const httpcodigoMemes = [
       id: 29,
       codigo: 413,
       description: "Demasiado pesado.",
-      image: "https://imgs.search.brave.com/DQCUUYdsI418QGYakp8T1PZSXfWyFgi-lPZ_iYgUZ5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L20vRGpFRGs3UV9F/cWNBQUFBZC95ZS1k/ZWphLWRlLXNlci10/YW4tcGVzYW8uZ2lm.gif"
+      image: "/memes/413.webp" ,
     },
     {
       id: 30,
